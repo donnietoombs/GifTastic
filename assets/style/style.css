@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+
+button{
+    margin-bottom: 10px;
+        }
+        
+    div,
+    form,
+    input {
+      margin: 10px;
+    }
